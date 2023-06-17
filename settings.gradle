@@ -1,0 +1,5 @@
+rootProject.name = 'Many_model_gradle_java_core'
+include 'db'
+include 'api'
+include 'service'
+
